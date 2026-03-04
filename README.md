@@ -104,31 +104,6 @@ The trained model can predict the pathogenicity of unseen genomic variants.
 
 ---
 
-## Project Structure
-
-```
-genomic-variant-classification-pipeline
-│
-├── data
-│   └── dataset_sample.csv
-│
-├── notebooks
-│   └── analysis.ipynb
-│
-├── src
-│   ├── preprocessing.py
-│   ├── train_model.py
-│   └── predict_variant.py
-│
-├── models
-│   └── trained_model.pkl
-│
-├── requirements.txt
-└── README.md
-```
-
----
-
 ## Installation
 
 Clone the repository:
